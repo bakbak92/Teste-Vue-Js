@@ -16,14 +16,6 @@ npm install
 
 ### 2. Démarrer l'application
 
-**Option 1 : Script automatique (recommandé)**
-```bash
-# À la racine du projet
-./start-dev.sh
-```
-
-**Option 2 : Manuel (2 terminaux)**
-
 Terminal 1 - Backend :
 ```bash
 cd api
